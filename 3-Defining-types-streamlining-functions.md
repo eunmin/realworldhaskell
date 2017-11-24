@@ -1,0 +1,1 @@
+# Defining types, streamlining functions
